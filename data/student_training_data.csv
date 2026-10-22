@@ -1,0 +1,1202 @@
+Student_ID,Attendance,Study_Hours,Previous_Marks,Performance,Student,Marks
+1,36.0,7.0,0.0,Needs Support,Student 1,0.0
+2,84.0,4.0,57.0,Average,Student 2,0.0
+3,76.0,8.0,75.0,High,Student 3,0.0
+4,61.0,6.0,55.0,Average,Student 4,0.0
+5,60.0,5.0,38.0,Needs Support,Student 5,0.0
+6,90.0,8.0,83.0,High,Student 6,0.0
+7,36.0,4.0,37.0,Needs Support,Student 7,0.0
+8,79.0,6.0,71.0,Average,Student 8,0.0
+9,44.0,2.0,46.0,Needs Support,Student 9,0.0
+10,36.0,8.0,2.0,Needs Support,Student 10,0.0
+11,67.0,5.0,53.0,Average,Student 11,0.0
+12,99.0,7.0,4.0,Needs Support,Student 12,0.0
+13,82.0,4.0,94.0,High,Student 13,0.0
+14,84.0,7.0,60.0,Average,Student 14,0.0
+15,80.0,0.0,37.0,Needs Support,Student 15,0.0
+16,85.0,1.0,49.0,Average,Student 16,0.0
+17,66.0,4.0,62.0,Average,Student 17,0.0
+18,39.0,6.0,26.0,Needs Support,Student 18,0.0
+19,89.0,7.0,29.0,Average,Student 19,0.0
+20,61.0,3.0,42.0,Needs Support,Student 20,0.0
+21,65.0,5.0,26.0,Needs Support,Student 21,0.0
+22,56.0,4.0,76.0,Average,Student 22,0.0
+23,42.0,8.0,10.0,Needs Support,Student 23,0.0
+24,95.0,5.0,83.0,High,Student 24,0.0
+25,85.0,3.0,35.0,Average,Student 25,0.0
+26,75.0,8.0,56.0,Average,Student 26,0.0
+27,58.0,0.0,15.0,Needs Support,Student 27,0.0
+28,88.0,8.0,38.0,Average,Student 28,0.0
+29,68.0,1.0,76.0,Average,Student 29,0.0
+30,61.0,2.0,27.0,Needs Support,Student 30,0.0
+31,61.0,7.0,13.0,Needs Support,Student 31,0.0
+32,46.0,6.0,52.0,Average,Student 32,0.0
+33,36.0,8.0,16.0,Needs Support,Student 33,0.0
+34,69.0,6.0,31.0,Average,Student 34,0.0
+35,93.0,5.0,45.0,Average,Student 35,0.0
+36,34.0,3.0,56.0,Needs Support,Student 36,0.0
+37,90.0,0.0,64.0,Average,Student 37,0.0
+38,88.0,1.0,68.0,Average,Student 38,0.0
+39,49.0,2.0,85.0,Average,Student 39,0.0
+40,74.0,0.0,6.0,Needs Support,Student 40,0.0
+41,41.0,4.0,36.0,Needs Support,Student 41,0.0
+42,83.0,6.0,0.0,Needs Support,Student 42,0.0
+43,79.0,8.0,0.0,Needs Support,Student 43,0.0
+44,55.0,4.0,21.0,Needs Support,Student 44,0.0
+45,34.0,7.0,60.0,Average,Student 45,0.0
+46,98.0,8.0,90.0,High,Student 46,0.0
+47,61.0,7.0,78.0,Average,Student 47,0.0
+48,93.0,4.0,65.0,Average,Student 48,0.0
+49,78.0,2.0,78.0,Average,Student 49,0.0
+50,85.0,8.0,17.0,Average,Student 50,0.0
+51,83.0,2.0,84.0,Average,Student 51,0.0
+52,43.0,3.0,89.0,Average,Student 52,0.0
+53,55.0,0.0,9.0,Needs Support,Student 53,0.0
+54,63.0,7.0,47.0,Average,Student 54,0.0
+55,65.0,5.0,83.0,Average,Student 55,0.0
+56,33.0,0.0,48.0,Needs Support,Student 56,0.0
+57,68.0,1.0,84.0,Average,Student 57,0.0
+58,40.0,4.0,94.0,Average,Student 58,0.0
+59,82.0,4.0,47.0,Average,Student 59,0.0
+60,78.0,7.0,6.0,Needs Support,Student 60,0.0
+61,95.0,2.0,34.0,Average,Student 61,0.0
+62,82.0,8.0,21.0,Average,Student 62,0.0
+63,56.0,4.0,47.0,Average,Student 63,0.0
+64,98.0,7.0,59.0,High,Student 64,0.0
+65,59.0,2.0,46.0,Needs Support,Student 65,0.0
+66,53.0,0.0,19.0,Needs Support,Student 66,0.0
+67,94.0,0.0,30.0,Needs Support,Student 67,0.0
+68,56.0,3.0,68.0,Average,Student 68,0.0
+69,35.0,8.0,2.0,Needs Support,Student 69,0.0
+70,63.0,0.0,21.0,Needs Support,Student 70,0.0
+71,86.0,3.0,90.0,High,Student 71,0.0
+72,43.0,0.0,10.0,Needs Support,Student 72,0.0
+73,62.0,8.0,41.0,Average,Student 73,0.0
+74,39.0,6.0,20.0,Needs Support,Student 74,0.0
+75,78.0,6.0,10.0,Needs Support,Student 75,0.0
+76,63.0,6.0,42.0,Average,Student 76,0.0
+77,53.0,5.0,52.0,Average,Student 77,0.0
+78,46.0,6.0,17.0,Needs Support,Student 78,0.0
+79,70.0,0.0,7.0,Needs Support,Student 79,0.0
+80,77.0,7.0,13.0,Needs Support,Student 80,0.0
+81,96.0,6.0,65.0,High,Student 81,0.0
+82,61.0,6.0,86.0,High,Student 82,0.0
+83,41.0,3.0,18.0,Needs Support,Student 83,0.0
+84,89.0,7.0,32.0,Average,Student 84,0.0
+85,74.0,3.0,34.0,Needs Support,Student 85,0.0
+86,79.0,0.0,36.0,Needs Support,Student 86,0.0
+87,36.0,8.0,24.0,Needs Support,Student 87,0.0
+88,52.0,2.0,5.0,Needs Support,Student 88,0.0
+89,84.0,0.0,53.0,Average,Student 89,0.0
+90,89.0,5.0,36.0,Average,Student 90,0.0
+91,60.0,2.0,34.0,Needs Support,Student 91,0.0
+92,87.0,7.0,26.0,Average,Student 92,0.0
+93,89.0,3.0,93.0,High,Student 93,0.0
+94,57.0,0.0,61.0,Needs Support,Student 94,0.0
+95,93.0,8.0,42.0,Average,Student 95,0.0
+96,50.0,4.0,20.0,Needs Support,Student 96,0.0
+97,47.0,2.0,80.0,Average,Student 97,0.0
+98,78.0,6.0,89.0,High,Student 98,0.0
+99,75.0,4.0,3.0,Needs Support,Student 99,0.0
+100,39.0,0.0,93.0,Average,Student 100,0.0
+101,89.0,6.0,70.0,High,Student 101,0.0
+102,44.0,3.0,10.0,Needs Support,Student 102,0.0
+103,87.0,6.0,76.0,High,Student 103,0.0
+104,30.0,8.0,10.0,Needs Support,Student 104,0.0
+105,86.0,5.0,5.0,Needs Support,Student 105,0.0
+106,85.0,6.0,11.0,Needs Support,Student 106,0.0
+107,85.0,2.0,46.0,Average,Student 107,0.0
+108,77.0,2.0,62.0,Average,Student 108,0.0
+109,63.0,3.0,41.0,Needs Support,Student 109,0.0
+110,80.0,7.0,12.0,Needs Support,Student 110,0.0
+111,49.0,4.0,20.0,Needs Support,Student 111,0.0
+112,85.0,3.0,86.0,High,Student 112,0.0
+113,69.0,7.0,97.0,High,Student 113,0.0
+114,62.0,7.0,76.0,Average,Student 114,0.0
+115,65.0,8.0,10.0,Needs Support,Student 115,0.0
+116,70.0,2.0,82.0,Average,Student 116,0.0
+117,32.0,6.0,69.0,Average,Student 117,0.0
+118,39.0,5.0,53.0,Average,Student 118,0.0
+119,47.0,4.0,14.0,Needs Support,Student 119,0.0
+120,38.0,3.0,100.0,Average,Student 120,0.0
+121,61.0,1.0,44.0,Needs Support,Student 121,0.0
+122,77.0,2.0,4.0,Needs Support,Student 122,0.0
+123,76.0,4.0,21.0,Needs Support,Student 123,0.0
+124,63.0,7.0,40.0,Average,Student 124,0.0
+125,90.0,7.0,6.0,Needs Support,Student 125,0.0
+126,70.0,1.0,32.0,Needs Support,Student 126,0.0
+127,35.0,6.0,47.0,Needs Support,Student 127,0.0
+128,84.0,0.0,95.0,Average,Student 128,0.0
+129,70.0,6.0,8.0,Needs Support,Student 129,0.0
+130,75.0,3.0,58.0,Average,Student 130,0.0
+131,70.0,4.0,92.0,High,Student 131,0.0
+132,69.0,6.0,81.0,High,Student 132,0.0
+133,36.0,3.0,93.0,Average,Student 133,0.0
+134,69.0,7.0,17.0,Needs Support,Student 134,0.0
+135,86.0,4.0,80.0,High,Student 135,0.0
+136,51.0,8.0,98.0,High,Student 136,0.0
+137,72.0,5.0,32.0,Average,Student 137,0.0
+138,32.0,2.0,50.0,Needs Support,Student 138,0.0
+139,54.0,6.0,53.0,Average,Student 139,0.0
+140,61.0,3.0,49.0,Average,Student 140,0.0
+141,99.0,4.0,29.0,Average,Student 141,0.0
+142,45.0,1.0,98.0,Average,Student 142,0.0
+143,49.0,1.0,96.0,Average,Student 143,0.0
+144,59.0,5.0,38.0,Needs Support,Student 144,0.0
+145,100.0,1.0,81.0,Average,Student 145,0.0
+146,90.0,8.0,40.0,Average,Student 146,0.0
+147,32.0,7.0,80.0,Average,Student 147,0.0
+148,46.0,6.0,59.0,Average,Student 148,0.0
+149,88.0,6.0,47.0,Average,Student 149,0.0
+150,34.0,5.0,12.0,Needs Support,Student 150,0.0
+151,90.0,0.0,66.0,Average,Student 151,0.0
+152,49.0,3.0,32.0,Needs Support,Student 152,0.0
+153,95.0,4.0,21.0,Needs Support,Student 153,0.0
+154,50.0,8.0,19.0,Needs Support,Student 154,0.0
+155,60.0,1.0,99.0,Average,Student 155,0.0
+156,76.0,4.0,10.0,Needs Support,Student 156,0.0
+157,38.0,3.0,80.0,Average,Student 157,0.0
+158,69.0,1.0,87.0,Average,Student 158,0.0
+159,65.0,0.0,3.0,Needs Support,Student 159,0.0
+160,85.0,3.0,59.0,Average,Student 160,0.0
+161,100.0,0.0,58.0,Average,Student 161,0.0
+162,77.0,0.0,36.0,Needs Support,Student 162,0.0
+163,59.0,3.0,67.0,Average,Student 163,0.0
+164,58.0,1.0,41.0,Needs Support,Student 164,0.0
+165,59.0,4.0,44.0,Needs Support,Student 165,0.0
+166,87.0,0.0,43.0,Needs Support,Student 166,0.0
+167,52.0,2.0,80.0,Average,Student 167,0.0
+168,41.0,4.0,63.0,Average,Student 168,0.0
+169,53.0,8.0,38.0,Average,Student 169,0.0
+170,31.0,5.0,93.0,Average,Student 170,0.0
+171,37.0,7.0,81.0,Average,Student 171,0.0
+172,36.0,3.0,94.0,Average,Student 172,0.0
+173,84.0,4.0,73.0,Average,Student 173,0.0
+174,81.0,3.0,39.0,Average,Student 174,0.0
+175,79.0,7.0,78.0,High,Student 175,0.0
+176,62.0,8.0,33.0,Average,Student 176,0.0
+177,80.0,8.0,27.0,Average,Student 177,0.0
+178,41.0,6.0,45.0,Needs Support,Student 178,0.0
+179,93.0,4.0,97.0,High,Student 179,0.0
+180,65.0,4.0,57.0,Average,Student 180,0.0
+181,96.0,8.0,38.0,Average,Student 181,0.0
+182,40.0,2.0,46.0,Needs Support,Student 182,0.0
+183,65.0,3.0,29.0,Needs Support,Student 183,0.0
+184,79.0,8.0,66.0,High,Student 184,0.0
+185,65.0,3.0,35.0,Needs Support,Student 185,0.0
+186,61.0,2.0,55.0,Average,Student 186,0.0
+187,41.0,5.0,37.0,Needs Support,Student 187,0.0
+188,57.0,2.0,32.0,Needs Support,Student 188,0.0
+189,46.0,8.0,97.0,High,Student 189,0.0
+190,51.0,8.0,34.0,Average,Student 190,0.0
+191,78.0,2.0,7.0,Needs Support,Student 191,0.0
+192,74.0,4.0,38.0,Average,Student 192,0.0
+193,73.0,8.0,53.0,Average,Student 193,0.0
+194,55.0,6.0,9.0,Needs Support,Student 194,0.0
+195,98.0,1.0,30.0,Needs Support,Student 195,0.0
+196,36.0,5.0,16.0,Needs Support,Student 196,0.0
+197,54.0,5.0,50.0,Average,Student 197,0.0
+198,38.0,5.0,73.0,Average,Student 198,0.0
+199,54.0,0.0,97.0,Average,Student 199,0.0
+200,98.0,2.0,39.0,Average,Student 200,0.0
+201,56.0,7.0,87.0,High,Student 201,0.0
+202,94.0,2.0,21.0,Needs Support,Student 202,0.0
+203,65.0,2.0,78.0,Average,Student 203,0.0
+204,79.0,2.0,56.0,Average,Student 204,0.0
+205,62.0,1.0,76.0,Average,Student 205,0.0
+206,48.0,1.0,76.0,Average,Student 206,0.0
+207,84.0,3.0,53.0,Average,Student 207,0.0
+208,98.0,7.0,25.0,Average,Student 208,0.0
+209,48.0,0.0,53.0,Needs Support,Student 209,0.0
+210,85.0,2.0,83.0,Average,Student 210,0.0
+211,48.0,0.0,98.0,Average,Student 211,0.0
+212,80.0,5.0,93.0,High,Student 212,0.0
+213,86.0,2.0,18.0,Needs Support,Student 213,0.0
+214,61.0,7.0,60.0,Average,Student 214,0.0
+215,82.0,5.0,10.0,Needs Support,Student 215,0.0
+216,49.0,7.0,67.0,Average,Student 216,0.0
+217,35.0,5.0,100.0,Average,Student 217,0.0
+218,36.0,3.0,5.0,Needs Support,Student 218,0.0
+219,61.0,7.0,66.0,Average,Student 219,0.0
+220,94.0,4.0,95.0,High,Student 220,0.0
+221,39.0,8.0,85.0,Average,Student 221,0.0
+222,62.0,8.0,39.0,Average,Student 222,0.0
+223,79.0,5.0,10.0,Needs Support,Student 223,0.0
+224,44.0,6.0,93.0,Average,Student 224,0.0
+225,81.0,2.0,93.0,High,Student 225,0.0
+226,51.0,7.0,58.0,Average,Student 226,0.0
+227,87.0,6.0,98.0,High,Student 227,0.0
+228,71.0,8.0,0.0,Needs Support,Student 228,0.0
+229,68.0,2.0,62.0,Average,Student 229,0.0
+230,42.0,7.0,3.0,Needs Support,Student 230,0.0
+231,62.0,4.0,94.0,High,Student 231,0.0
+232,90.0,1.0,68.0,Average,Student 232,0.0
+233,31.0,1.0,92.0,Average,Student 233,0.0
+234,83.0,5.0,56.0,Average,Student 234,0.0
+235,64.0,2.0,8.0,Needs Support,Student 235,0.0
+236,81.0,0.0,2.0,Needs Support,Student 236,0.0
+237,77.0,3.0,33.0,Needs Support,Student 237,0.0
+238,60.0,5.0,75.0,Average,Student 238,0.0
+239,51.0,2.0,15.0,Needs Support,Student 239,0.0
+240,74.0,8.0,86.0,High,Student 240,0.0
+241,39.0,7.0,24.0,Needs Support,Student 241,0.0
+242,71.0,4.0,50.0,Average,Student 242,0.0
+243,36.0,8.0,20.0,Needs Support,Student 243,0.0
+244,76.0,3.0,47.0,Average,Student 244,0.0
+245,74.0,1.0,45.0,Needs Support,Student 245,0.0
+246,35.0,0.0,0.0,Needs Support,Student 246,0.0
+247,83.0,8.0,57.0,Average,Student 247,0.0
+248,59.0,8.0,79.0,High,Student 248,0.0
+249,85.0,6.0,94.0,High,Student 249,0.0
+250,32.0,0.0,33.0,Needs Support,Student 250,0.0
+251,42.0,2.0,88.0,Average,Student 251,0.0
+252,65.0,0.0,88.0,Average,Student 252,0.0
+253,43.0,0.0,99.0,Average,Student 253,0.0
+254,53.0,2.0,37.0,Needs Support,Student 254,0.0
+255,76.0,5.0,85.0,High,Student 255,0.0
+256,40.0,0.0,57.0,Needs Support,Student 256,0.0
+257,78.0,8.0,5.0,Needs Support,Student 257,0.0
+258,37.0,4.0,27.0,Needs Support,Student 258,0.0
+259,42.0,2.0,67.0,Average,Student 259,0.0
+260,71.0,4.0,16.0,Needs Support,Student 260,0.0
+261,86.0,7.0,43.0,Average,Student 261,0.0
+262,42.0,2.0,78.0,Average,Student 262,0.0
+263,51.0,0.0,15.0,Needs Support,Student 263,0.0
+264,95.0,0.0,50.0,Average,Student 264,0.0
+265,100.0,7.0,21.0,Average,Student 265,0.0
+266,71.0,1.0,54.0,Average,Student 266,0.0
+267,61.0,5.0,24.0,Needs Support,Student 267,0.0
+268,54.0,3.0,97.0,Average,Student 268,0.0
+269,73.0,6.0,7.0,Needs Support,Student 269,0.0
+270,71.0,0.0,97.0,Average,Student 270,0.0
+271,50.0,8.0,79.0,Average,Student 271,0.0
+272,31.0,6.0,86.0,Average,Student 272,0.0
+273,40.0,4.0,86.0,Average,Student 273,0.0
+274,98.0,1.0,18.0,Needs Support,Student 274,0.0
+275,59.0,8.0,94.0,High,Student 275,0.0
+276,64.0,2.0,60.0,Average,Student 276,0.0
+277,63.0,4.0,97.0,High,Student 277,0.0
+278,85.0,3.0,88.0,High,Student 278,0.0
+279,34.0,2.0,58.0,Needs Support,Student 279,0.0
+280,35.0,3.0,37.0,Needs Support,Student 280,0.0
+281,49.0,1.0,11.0,Needs Support,Student 281,0.0
+282,64.0,0.0,10.0,Needs Support,Student 282,0.0
+283,77.0,2.0,39.0,Needs Support,Student 283,0.0
+284,64.0,1.0,81.0,Average,Student 284,0.0
+285,61.0,3.0,51.0,Average,Student 285,0.0
+286,96.0,7.0,48.0,Average,Student 286,0.0
+287,41.0,1.0,24.0,Needs Support,Student 287,0.0
+288,70.0,0.0,57.0,Needs Support,Student 288,0.0
+289,68.0,0.0,64.0,Average,Student 289,0.0
+290,63.0,4.0,99.0,High,Student 290,0.0
+291,87.0,2.0,73.0,Average,Student 291,0.0
+292,48.0,4.0,61.0,Average,Student 292,0.0
+293,97.0,0.0,91.0,Average,Student 293,0.0
+294,53.0,2.0,42.0,Needs Support,Student 294,0.0
+295,68.0,3.0,94.0,Average,Student 295,0.0
+296,66.0,3.0,37.0,Needs Support,Student 296,0.0
+297,90.0,4.0,12.0,Needs Support,Student 297,0.0
+298,61.0,7.0,42.0,Average,Student 298,0.0
+299,50.0,4.0,13.0,Needs Support,Student 299,0.0
+300,31.0,7.0,11.0,Needs Support,Student 300,0.0
+301,55.0,4.0,89.0,Average,Student 301,0.0
+302,88.0,2.0,80.0,Average,Student 302,0.0
+303,30.0,2.0,22.0,Needs Support,Student 303,0.0
+304,93.0,2.0,84.0,Average,Student 304,0.0
+305,68.0,5.0,6.0,Needs Support,Student 305,0.0
+306,39.0,2.0,28.0,Needs Support,Student 306,0.0
+307,51.0,8.0,71.0,Average,Student 307,0.0
+308,69.0,4.0,30.0,Needs Support,Student 308,0.0
+309,52.0,7.0,73.0,Average,Student 309,0.0
+310,37.0,6.0,88.0,Average,Student 310,0.0
+311,77.0,3.0,6.0,Needs Support,Student 311,0.0
+312,77.0,2.0,2.0,Needs Support,Student 312,0.0
+313,38.0,6.0,94.0,Average,Student 313,0.0
+314,49.0,2.0,52.0,Needs Support,Student 314,0.0
+315,47.0,2.0,51.0,Needs Support,Student 315,0.0
+316,76.0,8.0,46.0,Average,Student 316,0.0
+317,81.0,4.0,43.0,Average,Student 317,0.0
+318,81.0,0.0,69.0,Average,Student 318,0.0
+319,96.0,4.0,58.0,Average,Student 319,0.0
+320,84.0,4.0,16.0,Needs Support,Student 320,0.0
+321,52.0,7.0,63.0,Average,Student 321,0.0
+322,37.0,6.0,67.0,Average,Student 322,0.0
+323,73.0,1.0,11.0,Needs Support,Student 323,0.0
+324,95.0,1.0,38.0,Average,Student 324,0.0
+325,99.0,5.0,79.0,High,Student 325,0.0
+326,46.0,0.0,62.0,Needs Support,Student 326,0.0
+327,46.0,2.0,13.0,Needs Support,Student 327,0.0
+328,32.0,1.0,4.0,Needs Support,Student 328,0.0
+329,40.0,0.0,58.0,Needs Support,Student 329,0.0
+330,69.0,8.0,46.0,Average,Student 330,0.0
+331,68.0,0.0,97.0,Average,Student 331,0.0
+332,56.0,0.0,52.0,Needs Support,Student 332,0.0
+333,52.0,8.0,94.0,High,Student 333,0.0
+334,88.0,1.0,21.0,Needs Support,Student 334,0.0
+335,62.0,7.0,45.0,Average,Student 335,0.0
+336,87.0,0.0,14.0,Needs Support,Student 336,0.0
+337,98.0,1.0,57.0,Average,Student 337,0.0
+338,52.0,0.0,19.0,Needs Support,Student 338,0.0
+339,44.0,6.0,49.0,Average,Student 339,0.0
+340,97.0,5.0,34.0,Average,Student 340,0.0
+341,75.0,4.0,18.0,Needs Support,Student 341,0.0
+342,50.0,2.0,9.0,Needs Support,Student 342,0.0
+343,74.0,0.0,51.0,Needs Support,Student 343,0.0
+344,66.0,5.0,95.0,High,Student 344,0.0
+345,94.0,2.0,20.0,Needs Support,Student 345,0.0
+346,48.0,5.0,40.0,Needs Support,Student 346,0.0
+347,100.0,6.0,22.0,Average,Student 347,0.0
+348,96.0,7.0,81.0,High,Student 348,0.0
+349,42.0,4.0,41.0,Needs Support,Student 349,0.0
+350,41.0,0.0,98.0,Average,Student 350,0.0
+351,67.0,2.0,24.0,Needs Support,Student 351,0.0
+352,33.0,7.0,8.0,Needs Support,Student 352,0.0
+353,51.0,4.0,58.0,Average,Student 353,0.0
+354,60.0,5.0,65.0,Average,Student 354,0.0
+355,98.0,4.0,100.0,High,Student 355,0.0
+356,100.0,1.0,88.0,High,Student 356,0.0
+357,40.0,8.0,89.0,High,Student 357,0.0
+358,93.0,6.0,64.0,Average,Student 358,0.0
+359,36.0,8.0,36.0,Needs Support,Student 359,0.0
+360,83.0,7.0,43.0,Average,Student 360,0.0
+361,90.0,2.0,13.0,Needs Support,Student 361,0.0
+362,93.0,2.0,43.0,Average,Student 362,0.0
+363,45.0,2.0,36.0,Needs Support,Student 363,0.0
+364,93.0,8.0,3.0,Needs Support,Student 364,0.0
+365,38.0,5.0,20.0,Needs Support,Student 365,0.0
+366,66.0,4.0,53.0,Average,Student 366,0.0
+367,63.0,8.0,37.0,Average,Student 367,0.0
+368,52.0,5.0,100.0,High,Student 368,0.0
+369,31.0,8.0,48.0,Average,Student 369,0.0
+370,84.0,8.0,96.0,High,Student 370,0.0
+371,53.0,0.0,66.0,Needs Support,Student 371,0.0
+372,76.0,3.0,4.0,Needs Support,Student 372,0.0
+373,59.0,6.0,20.0,Needs Support,Student 373,0.0
+374,56.0,7.0,71.0,Average,Student 374,0.0
+375,92.0,1.0,55.0,Average,Student 375,0.0
+376,36.0,2.0,30.0,Needs Support,Student 376,0.0
+377,82.0,4.0,52.0,Average,Student 377,0.0
+378,83.0,7.0,91.0,High,Student 378,0.0
+379,56.0,1.0,39.0,Needs Support,Student 379,0.0
+380,48.0,5.0,4.0,Needs Support,Student 380,0.0
+381,30.0,2.0,31.0,Needs Support,Student 381,0.0
+382,96.0,1.0,94.0,High,Student 382,0.0
+383,97.0,4.0,76.0,High,Student 383,0.0
+384,47.0,3.0,84.0,Average,Student 384,0.0
+385,32.0,5.0,92.0,Average,Student 385,0.0
+386,38.0,2.0,11.0,Needs Support,Student 386,0.0
+387,34.0,7.0,28.0,Needs Support,Student 387,0.0
+388,89.0,0.0,6.0,Needs Support,Student 388,0.0
+389,93.0,7.0,0.0,Needs Support,Student 389,0.0
+390,40.0,0.0,84.0,Average,Student 390,0.0
+391,83.0,6.0,94.0,High,Student 391,0.0
+392,42.0,3.0,15.0,Needs Support,Student 392,0.0
+393,56.0,3.0,72.0,Average,Student 393,0.0
+394,72.0,0.0,54.0,Needs Support,Student 394,0.0
+395,81.0,6.0,6.0,Needs Support,Student 395,0.0
+396,92.0,1.0,92.0,High,Student 396,0.0
+397,33.0,5.0,87.0,Average,Student 397,0.0
+398,43.0,6.0,57.0,Average,Student 398,0.0
+399,49.0,7.0,71.0,Average,Student 399,0.0
+400,52.0,6.0,40.0,Average,Student 400,0.0
+401,100.0,2.0,80.0,High,Student 401,0.0
+402,85.0,6.0,44.0,Average,Student 402,0.0
+403,52.0,7.0,99.0,High,Student 403,0.0
+404,98.0,2.0,6.0,Needs Support,Student 404,0.0
+405,65.0,1.0,17.0,Needs Support,Student 405,0.0
+406,65.0,8.0,97.0,High,Student 406,0.0
+407,60.0,1.0,29.0,Needs Support,Student 407,0.0
+408,40.0,5.0,31.0,Needs Support,Student 408,0.0
+409,96.0,2.0,79.0,Average,Student 409,0.0
+410,30.0,1.0,19.0,Needs Support,Student 410,0.0
+411,42.0,6.0,51.0,Average,Student 411,0.0
+412,46.0,1.0,28.0,Needs Support,Student 412,0.0
+413,49.0,6.0,19.0,Needs Support,Student 413,0.0
+414,39.0,6.0,97.0,High,Student 414,0.0
+415,31.0,0.0,20.0,Needs Support,Student 415,0.0
+416,78.0,1.0,9.0,Needs Support,Student 416,0.0
+417,98.0,7.0,68.0,High,Student 417,0.0
+418,38.0,4.0,87.0,Average,Student 418,0.0
+419,51.0,1.0,12.0,Needs Support,Student 419,0.0
+420,65.0,8.0,71.0,High,Student 420,0.0
+421,95.0,2.0,54.0,Average,Student 421,0.0
+422,79.0,0.0,83.0,Average,Student 422,0.0
+423,84.0,8.0,12.0,Average,Student 423,0.0
+424,71.0,0.0,98.0,Average,Student 424,0.0
+425,59.0,4.0,62.0,Average,Student 425,0.0
+426,44.0,8.0,85.0,High,Student 426,0.0
+427,91.0,5.0,36.0,Average,Student 427,0.0
+428,87.0,5.0,95.0,High,Student 428,0.0
+429,31.0,3.0,63.0,Needs Support,Student 429,0.0
+430,80.0,1.0,12.0,Needs Support,Student 430,0.0
+431,35.0,5.0,93.0,Average,Student 431,0.0
+432,82.0,8.0,80.0,High,Student 432,0.0
+433,88.0,0.0,30.0,Needs Support,Student 433,0.0
+434,39.0,7.0,55.0,Average,Student 434,0.0
+435,60.0,3.0,39.0,Needs Support,Student 435,0.0
+436,38.0,4.0,54.0,Needs Support,Student 436,0.0
+437,70.0,1.0,97.0,Average,Student 437,0.0
+438,95.0,5.0,90.0,High,Student 438,0.0
+439,35.0,1.0,21.0,Needs Support,Student 439,0.0
+440,58.0,2.0,98.0,Average,Student 440,0.0
+441,99.0,6.0,44.0,Average,Student 441,0.0
+442,51.0,0.0,71.0,Average,Student 442,0.0
+443,39.0,4.0,77.0,Average,Student 443,0.0
+444,64.0,5.0,48.0,Average,Student 444,0.0
+445,66.0,1.0,46.0,Needs Support,Student 445,0.0
+446,77.0,2.0,46.0,Average,Student 446,0.0
+447,52.0,3.0,87.0,Average,Student 447,0.0
+448,97.0,5.0,39.0,Average,Student 448,0.0
+449,66.0,8.0,28.0,Average,Student 449,0.0
+450,50.0,7.0,36.0,Average,Student 450,0.0
+451,98.0,1.0,19.0,Needs Support,Student 451,0.0
+452,95.0,0.0,39.0,Needs Support,Student 452,0.0
+453,65.0,0.0,11.0,Needs Support,Student 453,0.0
+454,31.0,5.0,9.0,Needs Support,Student 454,0.0
+455,72.0,1.0,73.0,Average,Student 455,0.0
+456,69.0,2.0,7.0,Needs Support,Student 456,0.0
+457,40.0,7.0,57.0,Average,Student 457,0.0
+458,75.0,7.0,78.0,High,Student 458,0.0
+459,89.0,7.0,73.0,High,Student 459,0.0
+460,37.0,2.0,45.0,Needs Support,Student 460,0.0
+461,81.0,5.0,19.0,Needs Support,Student 461,0.0
+462,39.0,5.0,93.0,Average,Student 462,0.0
+463,83.0,1.0,84.0,Average,Student 463,0.0
+464,59.0,4.0,61.0,Average,Student 464,0.0
+465,30.0,4.0,8.0,Needs Support,Student 465,0.0
+466,98.0,3.0,3.0,Needs Support,Student 466,0.0
+467,41.0,6.0,31.0,Needs Support,Student 467,0.0
+468,72.0,6.0,15.0,Needs Support,Student 468,0.0
+469,42.0,4.0,86.0,Average,Student 469,0.0
+470,96.0,6.0,20.0,Average,Student 470,0.0
+471,82.0,6.0,28.0,Average,Student 471,0.0
+472,87.0,5.0,98.0,High,Student 472,0.0
+473,60.0,2.0,82.0,Average,Student 473,0.0
+474,63.0,6.0,22.0,Needs Support,Student 474,0.0
+475,75.0,6.0,38.0,Average,Student 475,0.0
+476,85.0,8.0,52.0,Average,Student 476,0.0
+477,90.0,1.0,67.0,Average,Student 477,0.0
+478,31.0,3.0,94.0,Average,Student 478,0.0
+479,77.0,8.0,87.0,High,Student 479,0.0
+480,37.0,4.0,98.0,Average,Student 480,0.0
+481,50.0,8.0,4.0,Needs Support,Student 481,0.0
+482,88.0,0.0,23.0,Needs Support,Student 482,0.0
+483,47.0,0.0,56.0,Needs Support,Student 483,0.0
+484,86.0,7.0,4.0,Needs Support,Student 484,0.0
+485,62.0,3.0,35.0,Needs Support,Student 485,0.0
+486,46.0,4.0,15.0,Needs Support,Student 486,0.0
+487,53.0,3.0,94.0,Average,Student 487,0.0
+488,67.0,3.0,6.0,Needs Support,Student 488,0.0
+489,84.0,8.0,14.0,Average,Student 489,0.0
+490,73.0,0.0,19.0,Needs Support,Student 490,0.0
+491,96.0,6.0,15.0,Average,Student 491,0.0
+492,91.0,8.0,57.0,High,Student 492,0.0
+493,83.0,5.0,36.0,Average,Student 493,0.0
+494,72.0,3.0,92.0,High,Student 494,0.0
+495,50.0,1.0,26.0,Needs Support,Student 495,0.0
+496,59.0,6.0,54.0,Average,Student 496,0.0
+497,38.0,4.0,66.0,Average,Student 497,0.0
+498,56.0,1.0,63.0,Average,Student 498,0.0
+499,95.0,3.0,80.0,High,Student 499,0.0
+500,60.0,8.0,20.0,Needs Support,Student 500,0.0
+501,38.0,2.0,51.0,Needs Support,Student 501,0.0
+502,76.0,1.0,80.0,Average,Student 502,0.0
+503,98.0,6.0,87.0,High,Student 503,0.0
+504,91.0,1.0,62.0,Average,Student 504,0.0
+505,49.0,8.0,65.0,Average,Student 505,0.0
+506,62.0,7.0,87.0,High,Student 506,0.0
+507,67.0,8.0,63.0,Average,Student 507,0.0
+508,47.0,8.0,95.0,High,Student 508,0.0
+509,49.0,2.0,12.0,Needs Support,Student 509,0.0
+510,46.0,1.0,35.0,Needs Support,Student 510,0.0
+511,100.0,3.0,11.0,Needs Support,Student 511,0.0
+512,82.0,4.0,9.0,Needs Support,Student 512,0.0
+513,89.0,7.0,47.0,Average,Student 513,0.0
+514,87.0,6.0,22.0,Average,Student 514,0.0
+515,98.0,5.0,41.0,Average,Student 515,0.0
+516,37.0,7.0,44.0,Average,Student 516,0.0
+517,92.0,5.0,62.0,Average,Student 517,0.0
+518,34.0,3.0,95.0,Average,Student 518,0.0
+519,63.0,3.0,85.0,Average,Student 519,0.0
+520,72.0,4.0,38.0,Average,Student 520,0.0
+521,55.0,0.0,32.0,Needs Support,Student 521,0.0
+522,40.0,6.0,77.0,Average,Student 522,0.0
+523,43.0,5.0,12.0,Needs Support,Student 523,0.0
+524,88.0,6.0,54.0,Average,Student 524,0.0
+525,52.0,4.0,42.0,Needs Support,Student 525,0.0
+526,52.0,7.0,18.0,Needs Support,Student 526,0.0
+527,95.0,8.0,62.0,High,Student 527,0.0
+528,40.0,5.0,32.0,Needs Support,Student 528,0.0
+529,94.0,3.0,18.0,Needs Support,Student 529,0.0
+530,95.0,0.0,65.0,Average,Student 530,0.0
+531,72.0,7.0,17.0,Needs Support,Student 531,0.0
+532,41.0,8.0,67.0,Average,Student 532,0.0
+533,41.0,6.0,16.0,Needs Support,Student 533,0.0
+534,50.0,7.0,43.0,Average,Student 534,0.0
+535,70.0,7.0,81.0,High,Student 535,0.0
+536,40.0,7.0,23.0,Needs Support,Student 536,0.0
+537,62.0,4.0,77.0,Average,Student 537,0.0
+538,38.0,0.0,72.0,Needs Support,Student 538,0.0
+539,68.0,0.0,91.0,Average,Student 539,0.0
+540,31.0,1.0,17.0,Needs Support,Student 540,0.0
+541,80.0,3.0,72.0,Average,Student 541,0.0
+542,33.0,6.0,94.0,Average,Student 542,0.0
+543,43.0,4.0,77.0,Average,Student 543,0.0
+544,42.0,0.0,18.0,Needs Support,Student 544,0.0
+545,89.0,1.0,83.0,Average,Student 545,0.0
+546,33.0,8.0,10.0,Needs Support,Student 546,0.0
+547,60.0,8.0,59.0,Average,Student 547,0.0
+548,71.0,3.0,50.0,Average,Student 548,0.0
+549,66.0,7.0,53.0,Average,Student 549,0.0
+550,78.0,6.0,52.0,Average,Student 550,0.0
+551,87.0,8.0,3.0,Needs Support,Student 551,0.0
+552,57.0,7.0,51.0,Average,Student 552,0.0
+553,88.0,5.0,94.0,High,Student 553,0.0
+554,52.0,3.0,44.0,Needs Support,Student 554,0.0
+555,99.0,5.0,27.0,Average,Student 555,0.0
+556,65.0,2.0,100.0,Average,Student 556,0.0
+557,82.0,3.0,9.0,Needs Support,Student 557,0.0
+558,92.0,5.0,49.0,Average,Student 558,0.0
+559,86.0,5.0,51.0,Average,Student 559,0.0
+560,90.0,5.0,48.0,Average,Student 560,0.0
+561,68.0,3.0,93.0,Average,Student 561,0.0
+562,33.0,3.0,42.0,Needs Support,Student 562,0.0
+563,65.0,0.0,98.0,Average,Student 563,0.0
+564,42.0,5.0,6.0,Needs Support,Student 564,0.0
+565,93.0,5.0,74.0,High,Student 565,0.0
+566,46.0,8.0,59.0,Average,Student 566,0.0
+567,46.0,4.0,24.0,Needs Support,Student 567,0.0
+568,47.0,4.0,23.0,Needs Support,Student 568,0.0
+569,75.0,0.0,72.0,Average,Student 569,0.0
+570,70.0,1.0,64.0,Average,Student 570,0.0
+571,97.0,3.0,61.0,Average,Student 571,0.0
+572,59.0,3.0,5.0,Needs Support,Student 572,0.0
+573,50.0,3.0,60.0,Average,Student 573,0.0
+574,33.0,3.0,99.0,Average,Student 574,0.0
+575,30.0,6.0,1.0,Needs Support,Student 575,0.0
+576,56.0,1.0,47.0,Needs Support,Student 576,0.0
+577,95.0,2.0,49.0,Average,Student 577,0.0
+578,67.0,1.0,90.0,Average,Student 578,0.0
+579,93.0,2.0,28.0,Needs Support,Student 579,0.0
+580,37.0,6.0,48.0,Average,Student 580,0.0
+581,36.0,0.0,72.0,Needs Support,Student 581,0.0
+582,89.0,3.0,6.0,Needs Support,Student 582,0.0
+583,37.0,0.0,80.0,Average,Student 583,0.0
+584,33.0,8.0,83.0,Average,Student 584,0.0
+585,58.0,6.0,72.0,Average,Student 585,0.0
+586,95.0,2.0,65.0,Average,Student 586,0.0
+587,78.0,1.0,75.0,Average,Student 587,0.0
+588,37.0,0.0,78.0,Average,Student 588,0.0
+589,89.0,4.0,91.0,High,Student 589,0.0
+590,89.0,6.0,43.0,Average,Student 590,0.0
+591,86.0,5.0,46.0,Average,Student 591,0.0
+592,94.0,7.0,64.0,High,Student 592,0.0
+593,47.0,3.0,19.0,Needs Support,Student 593,0.0
+594,99.0,2.0,86.0,High,Student 594,0.0
+595,52.0,4.0,77.0,Average,Student 595,0.0
+596,86.0,1.0,63.0,Average,Student 596,0.0
+597,71.0,8.0,30.0,Average,Student 597,0.0
+598,85.0,1.0,35.0,Needs Support,Student 598,0.0
+599,74.0,4.0,43.0,Average,Student 599,0.0
+600,75.0,4.0,66.0,Average,Student 600,0.0
+601,73.0,0.0,78.0,Average,Student 601,0.0
+602,85.0,4.0,67.0,Average,Student 602,0.0
+603,82.0,4.0,93.0,High,Student 603,0.0
+604,39.0,2.0,97.0,Average,Student 604,0.0
+605,88.0,1.0,71.0,Average,Student 605,0.0
+606,68.0,0.0,37.0,Needs Support,Student 606,0.0
+607,52.0,0.0,60.0,Needs Support,Student 607,0.0
+608,66.0,4.0,42.0,Average,Student 608,0.0
+609,98.0,0.0,63.0,Average,Student 609,0.0
+610,90.0,8.0,82.0,High,Student 610,0.0
+611,89.0,2.0,37.0,Average,Student 611,0.0
+612,62.0,5.0,51.0,Average,Student 612,0.0
+613,85.0,6.0,4.0,Needs Support,Student 613,0.0
+614,57.0,4.0,74.0,Average,Student 614,0.0
+615,78.0,7.0,49.0,Average,Student 615,0.0
+616,75.0,0.0,46.0,Needs Support,Student 616,0.0
+617,47.0,2.0,53.0,Needs Support,Student 617,0.0
+618,48.0,2.0,21.0,Needs Support,Student 618,0.0
+619,34.0,1.0,60.0,Needs Support,Student 619,0.0
+620,39.0,2.0,75.0,Average,Student 620,0.0
+621,60.0,2.0,35.0,Needs Support,Student 621,0.0
+622,63.0,6.0,13.0,Needs Support,Student 622,0.0
+623,41.0,2.0,39.0,Needs Support,Student 623,0.0
+624,59.0,7.0,20.0,Needs Support,Student 624,0.0
+625,72.0,6.0,37.0,Average,Student 625,0.0
+626,46.0,8.0,63.0,Average,Student 626,0.0
+627,54.0,0.0,11.0,Needs Support,Student 627,0.0
+628,56.0,8.0,75.0,Average,Student 628,0.0
+629,65.0,5.0,22.0,Needs Support,Student 629,0.0
+630,56.0,8.0,90.0,High,Student 630,0.0
+631,82.0,3.0,73.0,Average,Student 631,0.0
+632,53.0,8.0,27.0,Needs Support,Student 632,0.0
+633,60.0,5.0,56.0,Average,Student 633,0.0
+634,56.0,0.0,11.0,Needs Support,Student 634,0.0
+635,42.0,3.0,10.0,Needs Support,Student 635,0.0
+636,78.0,1.0,96.0,Average,Student 636,0.0
+637,46.0,8.0,81.0,Average,Student 637,0.0
+638,51.0,2.0,15.0,Needs Support,Student 638,0.0
+639,86.0,2.0,28.0,Needs Support,Student 639,0.0
+640,97.0,4.0,19.0,Needs Support,Student 640,0.0
+641,77.0,3.0,39.0,Average,Student 641,0.0
+642,95.0,0.0,29.0,Needs Support,Student 642,0.0
+643,90.0,7.0,33.0,Average,Student 643,0.0
+644,64.0,7.0,53.0,Average,Student 644,0.0
+645,84.0,6.0,19.0,Needs Support,Student 645,0.0
+646,53.0,5.0,89.0,Average,Student 646,0.0
+647,62.0,3.0,73.0,Average,Student 647,0.0
+648,68.0,4.0,76.0,Average,Student 648,0.0
+649,98.0,4.0,17.0,Needs Support,Student 649,0.0
+650,90.0,1.0,71.0,Average,Student 650,0.0
+651,64.0,0.0,84.0,Average,Student 651,0.0
+652,76.0,2.0,17.0,Needs Support,Student 652,0.0
+653,44.0,4.0,75.0,Average,Student 653,0.0
+654,87.0,1.0,36.0,Needs Support,Student 654,0.0
+655,69.0,0.0,79.0,Average,Student 655,0.0
+656,67.0,7.0,48.0,Average,Student 656,0.0
+657,84.0,3.0,81.0,Average,Student 657,0.0
+658,74.0,5.0,14.0,Needs Support,Student 658,0.0
+659,35.0,4.0,39.0,Needs Support,Student 659,0.0
+660,50.0,6.0,27.0,Needs Support,Student 660,0.0
+661,42.0,6.0,25.0,Needs Support,Student 661,0.0
+662,82.0,2.0,31.0,Needs Support,Student 662,0.0
+663,32.0,7.0,38.0,Needs Support,Student 663,0.0
+664,44.0,3.0,12.0,Needs Support,Student 664,0.0
+665,72.0,7.0,71.0,Average,Student 665,0.0
+666,79.0,3.0,55.0,Average,Student 666,0.0
+667,65.0,0.0,83.0,Average,Student 667,0.0
+668,91.0,6.0,71.0,High,Student 668,0.0
+669,95.0,0.0,15.0,Needs Support,Student 669,0.0
+670,39.0,6.0,7.0,Needs Support,Student 670,0.0
+671,97.0,0.0,42.0,Average,Student 671,0.0
+672,73.0,1.0,48.0,Needs Support,Student 672,0.0
+673,75.0,5.0,24.0,Needs Support,Student 673,0.0
+674,36.0,8.0,79.0,Average,Student 674,0.0
+675,74.0,3.0,58.0,Average,Student 675,0.0
+676,81.0,1.0,75.0,Average,Student 676,0.0
+677,71.0,2.0,11.0,Needs Support,Student 677,0.0
+678,35.0,8.0,82.0,Average,Student 678,0.0
+679,67.0,6.0,20.0,Needs Support,Student 679,0.0
+680,96.0,0.0,45.0,Average,Student 680,0.0
+681,81.0,3.0,44.0,Average,Student 681,0.0
+682,39.0,2.0,82.0,Average,Student 682,0.0
+683,98.0,1.0,27.0,Needs Support,Student 683,0.0
+684,98.0,7.0,24.0,Average,Student 684,0.0
+685,42.0,5.0,34.0,Needs Support,Student 685,0.0
+686,86.0,1.0,36.0,Needs Support,Student 686,0.0
+687,58.0,5.0,18.0,Needs Support,Student 687,0.0
+688,72.0,3.0,17.0,Needs Support,Student 688,0.0
+689,61.0,0.0,23.0,Needs Support,Student 689,0.0
+690,85.0,4.0,47.0,Average,Student 690,0.0
+691,100.0,1.0,34.0,Needs Support,Student 691,0.0
+692,86.0,2.0,39.0,Average,Student 692,0.0
+693,96.0,7.0,72.0,High,Student 693,0.0
+694,97.0,6.0,24.0,Average,Student 694,0.0
+695,36.0,1.0,91.0,Average,Student 695,0.0
+696,47.0,7.0,75.0,Average,Student 696,0.0
+697,81.0,5.0,17.0,Needs Support,Student 697,0.0
+698,71.0,7.0,31.0,Average,Student 698,0.0
+699,33.0,6.0,18.0,Needs Support,Student 699,0.0
+700,36.0,3.0,27.0,Needs Support,Student 700,0.0
+701,66.0,4.0,36.0,Needs Support,Student 701,0.0
+702,73.0,4.0,13.0,Needs Support,Student 702,0.0
+703,41.0,6.0,1.0,Needs Support,Student 703,0.0
+704,42.0,2.0,44.0,Needs Support,Student 704,0.0
+705,39.0,2.0,70.0,Average,Student 705,0.0
+706,70.0,2.0,30.0,Needs Support,Student 706,0.0
+707,30.0,2.0,86.0,Average,Student 707,0.0
+708,70.0,1.0,37.0,Needs Support,Student 708,0.0
+709,63.0,0.0,90.0,Average,Student 709,0.0
+710,63.0,8.0,23.0,Average,Student 710,0.0
+711,78.0,0.0,54.0,Average,Student 711,0.0
+712,67.0,7.0,77.0,High,Student 712,0.0
+713,81.0,0.0,5.0,Needs Support,Student 713,0.0
+714,84.0,6.0,93.0,High,Student 714,0.0
+715,95.0,2.0,36.0,Average,Student 715,0.0
+716,86.0,4.0,50.0,Average,Student 716,0.0
+717,66.0,2.0,63.0,Average,Student 717,0.0
+718,64.0,4.0,64.0,Average,Student 718,0.0
+719,46.0,4.0,2.0,Needs Support,Student 719,0.0
+720,72.0,4.0,87.0,High,Student 720,0.0
+721,39.0,3.0,62.0,Average,Student 721,0.0
+722,96.0,4.0,100.0,High,Student 722,0.0
+723,89.0,7.0,47.0,Average,Student 723,0.0
+724,38.0,3.0,61.0,Needs Support,Student 724,0.0
+725,85.0,3.0,44.0,Average,Student 725,0.0
+726,38.0,1.0,89.0,Average,Student 726,0.0
+727,81.0,3.0,84.0,Average,Student 727,0.0
+728,36.0,1.0,91.0,Average,Student 728,0.0
+729,64.0,1.0,50.0,Needs Support,Student 729,0.0
+730,76.0,8.0,79.0,High,Student 730,0.0
+731,81.0,0.0,36.0,Needs Support,Student 731,0.0
+732,59.0,4.0,46.0,Average,Student 732,0.0
+733,95.0,7.0,76.0,High,Student 733,0.0
+734,84.0,8.0,8.0,Needs Support,Student 734,0.0
+735,44.0,1.0,71.0,Average,Student 735,0.0
+736,77.0,1.0,1.0,Needs Support,Student 736,0.0
+737,81.0,3.0,58.0,Average,Student 737,0.0
+738,53.0,4.0,48.0,Needs Support,Student 738,0.0
+739,82.0,8.0,47.0,Average,Student 739,0.0
+740,93.0,1.0,49.0,Average,Student 740,0.0
+741,88.0,1.0,49.0,Average,Student 741,0.0
+742,84.0,2.0,41.0,Average,Student 742,0.0
+743,75.0,7.0,45.0,Average,Student 743,0.0
+744,49.0,0.0,57.0,Needs Support,Student 744,0.0
+745,86.0,3.0,77.0,Average,Student 745,0.0
+746,55.0,1.0,55.0,Needs Support,Student 746,0.0
+747,67.0,1.0,64.0,Average,Student 747,0.0
+748,52.0,8.0,84.0,High,Student 748,0.0
+749,52.0,0.0,99.0,Average,Student 749,0.0
+750,41.0,2.0,10.0,Needs Support,Student 750,0.0
+751,98.0,8.0,72.0,High,Student 751,0.0
+752,40.0,5.0,22.0,Needs Support,Student 752,0.0
+753,36.0,0.0,19.0,Needs Support,Student 753,0.0
+754,96.0,4.0,80.0,High,Student 754,0.0
+755,69.0,8.0,6.0,Needs Support,Student 755,0.0
+756,61.0,3.0,85.0,Average,Student 756,0.0
+757,82.0,4.0,77.0,Average,Student 757,0.0
+758,57.0,4.0,100.0,High,Student 758,0.0
+759,39.0,5.0,67.0,Average,Student 759,0.0
+760,81.0,1.0,88.0,Average,Student 760,0.0
+761,42.0,7.0,11.0,Needs Support,Student 761,0.0
+762,69.0,8.0,89.0,High,Student 762,0.0
+763,97.0,1.0,16.0,Needs Support,Student 763,0.0
+764,96.0,7.0,31.0,Average,Student 764,0.0
+765,55.0,7.0,12.0,Needs Support,Student 765,0.0
+766,85.0,6.0,40.0,Average,Student 766,0.0
+767,73.0,3.0,75.0,Average,Student 767,0.0
+768,64.0,4.0,27.0,Needs Support,Student 768,0.0
+769,39.0,7.0,83.0,Average,Student 769,0.0
+770,56.0,1.0,61.0,Needs Support,Student 770,0.0
+771,76.0,7.0,63.0,Average,Student 771,0.0
+772,100.0,8.0,94.0,High,Student 772,0.0
+773,30.0,6.0,43.0,Needs Support,Student 773,0.0
+774,80.0,3.0,34.0,Needs Support,Student 774,0.0
+775,90.0,5.0,100.0,High,Student 775,0.0
+776,97.0,0.0,56.0,Average,Student 776,0.0
+777,60.0,8.0,62.0,Average,Student 777,0.0
+778,38.0,3.0,29.0,Needs Support,Student 778,0.0
+779,49.0,0.0,21.0,Needs Support,Student 779,0.0
+780,90.0,7.0,17.0,Average,Student 780,0.0
+781,92.0,5.0,22.0,Average,Student 781,0.0
+782,75.0,5.0,19.0,Needs Support,Student 782,0.0
+783,38.0,0.0,75.0,Needs Support,Student 783,0.0
+784,38.0,6.0,5.0,Needs Support,Student 784,0.0
+785,63.0,5.0,63.0,Average,Student 785,0.0
+786,71.0,7.0,95.0,High,Student 786,0.0
+787,32.0,7.0,77.0,Average,Student 787,0.0
+788,78.0,1.0,40.0,Needs Support,Student 788,0.0
+789,68.0,1.0,5.0,Needs Support,Student 789,0.0
+790,30.0,8.0,84.0,Average,Student 790,0.0
+791,36.0,4.0,0.0,Needs Support,Student 791,0.0
+792,62.0,3.0,68.0,Average,Student 792,0.0
+793,81.0,2.0,67.0,Average,Student 793,0.0
+794,88.0,5.0,19.0,Needs Support,Student 794,0.0
+795,60.0,6.0,74.0,Average,Student 795,0.0
+796,50.0,0.0,17.0,Needs Support,Student 796,0.0
+797,98.0,4.0,22.0,Average,Student 797,0.0
+798,62.0,8.0,82.0,High,Student 798,0.0
+799,52.0,2.0,98.0,Average,Student 799,0.0
+800,61.0,2.0,26.0,Needs Support,Student 800,0.0
+801,30.0,7.0,93.0,Average,Student 801,0.0
+802,51.0,0.0,92.0,Average,Student 802,0.0
+803,66.0,3.0,77.0,Average,Student 803,0.0
+804,95.0,4.0,14.0,Needs Support,Student 804,0.0
+805,82.0,7.0,30.0,Average,Student 805,0.0
+806,85.0,1.0,68.0,Average,Student 806,0.0
+807,68.0,3.0,100.0,High,Student 807,0.0
+808,37.0,1.0,82.0,Average,Student 808,0.0
+809,57.0,7.0,42.0,Average,Student 809,0.0
+810,100.0,5.0,23.0,Average,Student 810,0.0
+811,33.0,4.0,96.0,Average,Student 811,0.0
+812,92.0,3.0,27.0,Needs Support,Student 812,0.0
+813,78.0,1.0,34.0,Needs Support,Student 813,0.0
+814,50.0,8.0,97.0,High,Student 814,0.0
+815,85.0,5.0,56.0,Average,Student 815,0.0
+816,89.0,2.0,26.0,Needs Support,Student 816,0.0
+817,33.0,3.0,0.0,Needs Support,Student 817,0.0
+818,37.0,6.0,43.0,Needs Support,Student 818,0.0
+819,77.0,6.0,99.0,High,Student 819,0.0
+820,100.0,4.0,43.0,Average,Student 820,0.0
+821,31.0,2.0,70.0,Needs Support,Student 821,0.0
+822,77.0,5.0,25.0,Needs Support,Student 822,0.0
+823,39.0,5.0,78.0,Average,Student 823,0.0
+824,76.0,5.0,78.0,Average,Student 824,0.0
+825,74.0,0.0,61.0,Average,Student 825,0.0
+826,36.0,4.0,77.0,Average,Student 826,0.0
+827,78.0,5.0,58.0,Average,Student 827,0.0
+828,93.0,8.0,38.0,Average,Student 828,0.0
+829,91.0,4.0,74.0,Average,Student 829,0.0
+830,32.0,3.0,84.0,Average,Student 830,0.0
+831,47.0,5.0,84.0,Average,Student 831,0.0
+832,47.0,1.0,21.0,Needs Support,Student 832,0.0
+833,62.0,0.0,68.0,Average,Student 833,0.0
+834,40.0,6.0,0.0,Needs Support,Student 834,0.0
+835,90.0,8.0,57.0,High,Student 835,0.0
+836,85.0,7.0,57.0,Average,Student 836,0.0
+837,87.0,5.0,36.0,Average,Student 837,0.0
+838,44.0,0.0,100.0,Average,Student 838,0.0
+839,31.0,8.0,89.0,Average,Student 839,0.0
+840,94.0,4.0,3.0,Needs Support,Student 840,0.0
+841,50.0,2.0,21.0,Needs Support,Student 841,0.0
+842,76.0,8.0,21.0,Average,Student 842,0.0
+843,94.0,6.0,90.0,High,Student 843,0.0
+844,32.0,6.0,52.0,Average,Student 844,0.0
+845,30.0,2.0,73.0,Average,Student 845,0.0
+846,30.0,8.0,81.0,Average,Student 846,0.0
+847,41.0,4.0,77.0,Average,Student 847,0.0
+848,33.0,4.0,8.0,Needs Support,Student 848,0.0
+849,88.0,6.0,14.0,Needs Support,Student 849,0.0
+850,73.0,5.0,39.0,Average,Student 850,0.0
+851,99.0,1.0,34.0,Needs Support,Student 851,0.0
+852,86.0,2.0,75.0,Average,Student 852,0.0
+853,98.0,3.0,15.0,Needs Support,Student 853,0.0
+854,46.0,8.0,37.0,Average,Student 854,0.0
+855,50.0,6.0,23.0,Needs Support,Student 855,0.0
+856,90.0,3.0,19.0,Needs Support,Student 856,0.0
+857,47.0,6.0,17.0,Needs Support,Student 857,0.0
+858,34.0,6.0,19.0,Needs Support,Student 858,0.0
+859,77.0,3.0,57.0,Average,Student 859,0.0
+860,86.0,3.0,41.0,Average,Student 860,0.0
+861,98.0,8.0,43.0,Average,Student 861,0.0
+862,95.0,5.0,48.0,Average,Student 862,0.0
+863,38.0,1.0,74.0,Average,Student 863,0.0
+864,84.0,6.0,87.0,High,Student 864,0.0
+865,90.0,5.0,53.0,Average,Student 865,0.0
+866,79.0,4.0,64.0,Average,Student 866,0.0
+867,88.0,6.0,74.0,High,Student 867,0.0
+868,89.0,8.0,69.0,High,Student 868,0.0
+869,61.0,2.0,13.0,Needs Support,Student 869,0.0
+870,32.0,3.0,99.0,Average,Student 870,0.0
+871,62.0,1.0,16.0,Needs Support,Student 871,0.0
+872,44.0,5.0,41.0,Needs Support,Student 872,0.0
+873,38.0,3.0,65.0,Average,Student 873,0.0
+874,38.0,3.0,40.0,Needs Support,Student 874,0.0
+875,79.0,6.0,24.0,Average,Student 875,0.0
+876,65.0,3.0,93.0,Average,Student 876,0.0
+877,68.0,4.0,7.0,Needs Support,Student 877,0.0
+878,82.0,3.0,24.0,Needs Support,Student 878,0.0
+879,68.0,2.0,100.0,High,Student 879,0.0
+880,74.0,1.0,73.0,Average,Student 880,0.0
+881,36.0,7.0,8.0,Needs Support,Student 881,0.0
+882,90.0,0.0,76.0,Average,Student 882,0.0
+883,61.0,2.0,97.0,Average,Student 883,0.0
+884,41.0,6.0,9.0,Needs Support,Student 884,0.0
+885,87.0,1.0,41.0,Needs Support,Student 885,0.0
+886,82.0,5.0,47.0,Average,Student 886,0.0
+887,33.0,6.0,13.0,Needs Support,Student 887,0.0
+888,43.0,5.0,20.0,Needs Support,Student 888,0.0
+889,31.0,2.0,17.0,Needs Support,Student 889,0.0
+890,49.0,0.0,18.0,Needs Support,Student 890,0.0
+891,37.0,7.0,40.0,Needs Support,Student 891,0.0
+892,80.0,2.0,46.0,Average,Student 892,0.0
+893,67.0,7.0,24.0,Needs Support,Student 893,0.0
+894,99.0,1.0,29.0,Needs Support,Student 894,0.0
+895,83.0,1.0,19.0,Needs Support,Student 895,0.0
+896,73.0,7.0,80.0,High,Student 896,0.0
+897,66.0,8.0,21.0,Average,Student 897,0.0
+898,33.0,7.0,91.0,Average,Student 898,0.0
+899,34.0,6.0,54.0,Average,Student 899,0.0
+900,73.0,2.0,81.0,Average,Student 900,0.0
+901,30.0,8.0,64.0,Average,Student 901,0.0
+902,33.0,6.0,26.0,Needs Support,Student 902,0.0
+903,45.0,1.0,60.0,Needs Support,Student 903,0.0
+904,92.0,1.0,27.0,Needs Support,Student 904,0.0
+905,62.0,7.0,11.0,Needs Support,Student 905,0.0
+906,80.0,2.0,25.0,Needs Support,Student 906,0.0
+907,59.0,6.0,27.0,Needs Support,Student 907,0.0
+908,42.0,1.0,13.0,Needs Support,Student 908,0.0
+909,56.0,2.0,2.0,Needs Support,Student 909,0.0
+910,36.0,2.0,95.0,Average,Student 910,0.0
+911,84.0,2.0,51.0,Average,Student 911,0.0
+912,43.0,6.0,40.0,Needs Support,Student 912,0.0
+913,56.0,8.0,93.0,High,Student 913,0.0
+914,99.0,8.0,22.0,Average,Student 914,0.0
+915,72.0,6.0,40.0,Average,Student 915,0.0
+916,62.0,1.0,85.0,Average,Student 916,0.0
+917,68.0,8.0,63.0,Average,Student 917,0.0
+918,85.0,4.0,40.0,Average,Student 918,0.0
+919,48.0,4.0,25.0,Needs Support,Student 919,0.0
+920,75.0,6.0,3.0,Needs Support,Student 920,0.0
+921,91.0,6.0,8.0,Needs Support,Student 921,0.0
+922,70.0,8.0,16.0,Needs Support,Student 922,0.0
+923,61.0,5.0,79.0,Average,Student 923,0.0
+924,40.0,5.0,64.0,Average,Student 924,0.0
+925,47.0,6.0,43.0,Average,Student 925,0.0
+926,97.0,2.0,79.0,Average,Student 926,0.0
+927,68.0,2.0,16.0,Needs Support,Student 927,0.0
+928,51.0,5.0,21.0,Needs Support,Student 928,0.0
+929,59.0,0.0,39.0,Needs Support,Student 929,0.0
+930,71.0,2.0,92.0,Average,Student 930,0.0
+931,68.0,6.0,62.0,Average,Student 931,0.0
+932,79.0,8.0,85.0,High,Student 932,0.0
+933,48.0,4.0,25.0,Needs Support,Student 933,0.0
+934,76.0,3.0,85.0,Average,Student 934,0.0
+935,61.0,3.0,7.0,Needs Support,Student 935,0.0
+936,96.0,6.0,22.0,Average,Student 936,0.0
+937,41.0,4.0,52.0,Needs Support,Student 937,0.0
+938,40.0,0.0,5.0,Needs Support,Student 938,0.0
+939,62.0,4.0,86.0,Average,Student 939,0.0
+940,66.0,3.0,87.0,Average,Student 940,0.0
+941,79.0,6.0,54.0,Average,Student 941,0.0
+942,58.0,7.0,30.0,Needs Support,Student 942,0.0
+943,94.0,8.0,9.0,Average,Student 943,0.0
+944,63.0,5.0,62.0,Average,Student 944,0.0
+945,39.0,3.0,54.0,Needs Support,Student 945,0.0
+946,38.0,3.0,76.0,Average,Student 946,0.0
+947,99.0,1.0,60.0,Average,Student 947,0.0
+948,39.0,8.0,12.0,Needs Support,Student 948,0.0
+949,97.0,7.0,12.0,Average,Student 949,0.0
+950,49.0,7.0,78.0,Average,Student 950,0.0
+951,36.0,2.0,16.0,Needs Support,Student 951,0.0
+952,51.0,2.0,94.0,Average,Student 952,0.0
+953,73.0,7.0,10.0,Needs Support,Student 953,0.0
+954,60.0,4.0,73.0,Average,Student 954,0.0
+955,85.0,6.0,98.0,High,Student 955,0.0
+956,73.0,4.0,44.0,Average,Student 956,0.0
+957,58.0,3.0,5.0,Needs Support,Student 957,0.0
+958,75.0,5.0,88.0,High,Student 958,0.0
+959,98.0,7.0,18.0,Average,Student 959,0.0
+960,59.0,3.0,53.0,Average,Student 960,0.0
+961,40.0,7.0,99.0,High,Student 961,0.0
+962,59.0,2.0,75.0,Average,Student 962,0.0
+963,89.0,3.0,4.0,Needs Support,Student 963,0.0
+964,45.0,8.0,82.0,Average,Student 964,0.0
+965,97.0,8.0,16.0,Average,Student 965,0.0
+966,71.0,8.0,75.0,High,Student 966,0.0
+967,72.0,2.0,62.0,Average,Student 967,0.0
+968,52.0,7.0,29.0,Needs Support,Student 968,0.0
+969,95.0,8.0,42.0,Average,Student 969,0.0
+970,32.0,8.0,11.0,Needs Support,Student 970,0.0
+971,51.0,0.0,99.0,Average,Student 971,0.0
+972,59.0,6.0,24.0,Needs Support,Student 972,0.0
+973,63.0,8.0,31.0,Average,Student 973,0.0
+974,63.0,6.0,50.0,Average,Student 974,0.0
+975,40.0,2.0,67.0,Average,Student 975,0.0
+976,46.0,6.0,51.0,Average,Student 976,0.0
+977,36.0,0.0,51.0,Needs Support,Student 977,0.0
+978,70.0,4.0,58.0,Average,Student 978,0.0
+979,54.0,5.0,86.0,Average,Student 979,0.0
+980,70.0,4.0,39.0,Average,Student 980,0.0
+981,71.0,6.0,84.0,High,Student 981,0.0
+982,79.0,2.0,79.0,Average,Student 982,0.0
+983,68.0,5.0,97.0,High,Student 983,0.0
+984,76.0,5.0,92.0,High,Student 984,0.0
+985,71.0,5.0,80.0,Average,Student 985,0.0
+986,76.0,2.0,24.0,Needs Support,Student 986,0.0
+987,73.0,2.0,78.0,Average,Student 987,0.0
+988,52.0,2.0,74.0,Average,Student 988,0.0
+989,47.0,4.0,29.0,Needs Support,Student 989,0.0
+990,85.0,5.0,68.0,Average,Student 990,0.0
+991,54.0,3.0,25.0,Needs Support,Student 991,0.0
+992,68.0,3.0,52.0,Average,Student 992,0.0
+993,43.0,2.0,80.0,Average,Student 993,0.0
+994,60.0,1.0,19.0,Needs Support,Student 994,0.0
+995,67.0,5.0,34.0,Needs Support,Student 995,0.0
+996,74.0,7.0,80.0,High,Student 996,0.0
+997,67.0,2.0,45.0,Needs Support,Student 997,0.0
+998,55.0,7.0,97.0,High,Student 998,0.0
+999,98.0,5.0,0.0,Needs Support,Student 999,0.0
+1000,66.0,1.0,72.0,Average,Student 1000,0.0
+1001,87.0,3.0,82.0,Average,Student 1001,0.0
+1002,82.0,0.0,92.0,Average,Student 1002,0.0
+1003,69.0,0.0,15.0,Needs Support,Student 1003,0.0
+1004,92.0,3.0,99.0,High,Student 1004,0.0
+1005,39.0,4.0,39.0,Needs Support,Student 1005,0.0
+1006,95.0,7.0,35.0,Average,Student 1006,0.0
+1007,90.0,1.0,35.0,Needs Support,Student 1007,0.0
+1008,65.0,7.0,64.0,Average,Student 1008,0.0
+1009,82.0,2.0,66.0,Average,Student 1009,0.0
+1010,66.0,1.0,47.0,Needs Support,Student 1010,0.0
+1011,49.0,6.0,7.0,Needs Support,Student 1011,0.0
+1012,86.0,6.0,99.0,High,Student 1012,0.0
+1013,47.0,5.0,22.0,Needs Support,Student 1013,0.0
+1014,52.0,1.0,9.0,Needs Support,Student 1014,0.0
+1015,66.0,1.0,60.0,Average,Student 1015,0.0
+1016,89.0,3.0,41.0,Average,Student 1016,0.0
+1017,57.0,4.0,62.0,Average,Student 1017,0.0
+1018,65.0,8.0,88.0,High,Student 1018,0.0
+1019,32.0,2.0,9.0,Needs Support,Student 1019,0.0
+1020,38.0,1.0,28.0,Needs Support,Student 1020,0.0
+1021,33.0,8.0,52.0,Average,Student 1021,0.0
+1022,35.0,1.0,79.0,Average,Student 1022,0.0
+1023,91.0,0.0,60.0,Average,Student 1023,0.0
+1024,89.0,3.0,38.0,Average,Student 1024,0.0
+1025,88.0,3.0,61.0,Average,Student 1025,0.0
+1026,33.0,5.0,98.0,Average,Student 1026,0.0
+1027,35.0,7.0,48.0,Average,Student 1027,0.0
+1028,49.0,8.0,89.0,High,Student 1028,0.0
+1029,70.0,2.0,78.0,Average,Student 1029,0.0
+1030,53.0,8.0,30.0,Average,Student 1030,0.0
+1031,64.0,5.0,25.0,Needs Support,Student 1031,0.0
+1032,42.0,0.0,77.0,Average,Student 1032,0.0
+1033,81.0,8.0,20.0,Average,Student 1033,0.0
+1034,52.0,1.0,34.0,Needs Support,Student 1034,0.0
+1035,34.0,5.0,23.0,Needs Support,Student 1035,0.0
+1036,82.0,7.0,61.0,Average,Student 1036,0.0
+1037,94.0,2.0,29.0,Needs Support,Student 1037,0.0
+1038,31.0,2.0,66.0,Needs Support,Student 1038,0.0
+1039,61.0,4.0,94.0,High,Student 1039,0.0
+1040,88.0,7.0,83.0,High,Student 1040,0.0
+1041,80.0,2.0,95.0,High,Student 1041,0.0
+1042,90.0,5.0,2.0,Needs Support,Student 1042,0.0
+1043,59.0,4.0,46.0,Average,Student 1043,0.0
+1044,56.0,1.0,22.0,Needs Support,Student 1044,0.0
+1045,80.0,6.0,92.0,High,Student 1045,0.0
+1046,40.0,7.0,71.0,Average,Student 1046,0.0
+1047,46.0,5.0,32.0,Needs Support,Student 1047,0.0
+1048,72.0,1.0,56.0,Average,Student 1048,0.0
+1049,77.0,1.0,61.0,Average,Student 1049,0.0
+1050,38.0,3.0,50.0,Needs Support,Student 1050,0.0
+1051,66.0,4.0,47.0,Average,Student 1051,0.0
+1052,55.0,4.0,5.0,Needs Support,Student 1052,0.0
+1053,65.0,2.0,45.0,Needs Support,Student 1053,0.0
+1054,98.0,4.0,35.0,Average,Student 1054,0.0
+1055,35.0,2.0,82.0,Average,Student 1055,0.0
+1056,100.0,6.0,87.0,High,Student 1056,0.0
+1057,61.0,7.0,75.0,Average,Student 1057,0.0
+1058,84.0,5.0,3.0,Needs Support,Student 1058,0.0
+1059,60.0,0.0,84.0,Average,Student 1059,0.0
+1060,52.0,8.0,40.0,Average,Student 1060,0.0
+1061,84.0,0.0,42.0,Needs Support,Student 1061,0.0
+1062,78.0,8.0,95.0,High,Student 1062,0.0
+1063,40.0,0.0,87.0,Average,Student 1063,0.0
+1064,80.0,4.0,5.0,Needs Support,Student 1064,0.0
+1065,83.0,0.0,36.0,Needs Support,Student 1065,0.0
+1066,57.0,0.0,75.0,Average,Student 1066,0.0
+1067,95.0,6.0,54.0,Average,Student 1067,0.0
+1068,75.0,6.0,26.0,Average,Student 1068,0.0
+1069,53.0,1.0,53.0,Needs Support,Student 1069,0.0
+1070,30.0,8.0,87.0,Average,Student 1070,0.0
+1071,77.0,2.0,22.0,Needs Support,Student 1071,0.0
+1072,44.0,2.0,75.0,Average,Student 1072,0.0
+1073,83.0,2.0,74.0,Average,Student 1073,0.0
+1074,67.0,4.0,89.0,Average,Student 1074,0.0
+1075,63.0,1.0,30.0,Needs Support,Student 1075,0.0
+1076,41.0,3.0,21.0,Needs Support,Student 1076,0.0
+1077,80.0,1.0,55.0,Average,Student 1077,0.0
+1078,41.0,0.0,53.0,Needs Support,Student 1078,0.0
+1079,59.0,3.0,41.0,Needs Support,Student 1079,0.0
+1080,89.0,6.0,78.0,High,Student 1080,0.0
+1081,95.0,6.0,80.0,High,Student 1081,0.0
+1082,100.0,3.0,24.0,Needs Support,Student 1082,0.0
+1083,98.0,2.0,80.0,Average,Student 1083,0.0
+1084,69.0,7.0,23.0,Needs Support,Student 1084,0.0
+1085,44.0,6.0,41.0,Needs Support,Student 1085,0.0
+1086,89.0,7.0,2.0,Needs Support,Student 1086,0.0
+1087,86.0,8.0,34.0,Average,Student 1087,0.0
+1088,100.0,7.0,96.0,High,Student 1088,0.0
+1089,76.0,8.0,44.0,Average,Student 1089,0.0
+1090,40.0,3.0,71.0,Average,Student 1090,0.0
+1091,65.0,3.0,10.0,Needs Support,Student 1091,0.0
+1092,61.0,2.0,64.0,Average,Student 1092,0.0
+1093,89.0,2.0,37.0,Average,Student 1093,0.0
+1094,57.0,6.0,75.0,Average,Student 1094,0.0
+1095,53.0,6.0,93.0,High,Student 1095,0.0
+1096,35.0,7.0,53.0,Average,Student 1096,0.0
+1097,89.0,1.0,10.0,Needs Support,Student 1097,0.0
+1098,83.0,4.0,48.0,Average,Student 1098,0.0
+1099,32.0,1.0,12.0,Needs Support,Student 1099,0.0
+1100,60.0,8.0,45.0,Average,Student 1100,0.0
+1101,64.0,2.0,6.0,Needs Support,Student 1101,0.0
+1102,63.0,1.0,64.0,Average,Student 1102,0.0
+1103,95.0,5.0,31.0,Average,Student 1103,0.0
+1104,40.0,7.0,20.0,Needs Support,Student 1104,0.0
+1105,51.0,8.0,1.0,Needs Support,Student 1105,0.0
+1106,42.0,0.0,89.0,Average,Student 1106,0.0
+1107,47.0,2.0,84.0,Average,Student 1107,0.0
+1108,94.0,1.0,81.0,Average,Student 1108,0.0
+1109,96.0,2.0,5.0,Needs Support,Student 1109,0.0
+1110,33.0,4.0,35.0,Needs Support,Student 1110,0.0
+1111,74.0,2.0,98.0,High,Student 1111,0.0
+1112,46.0,0.0,58.0,Needs Support,Student 1112,0.0
+1113,43.0,4.0,12.0,Needs Support,Student 1113,0.0
+1114,50.0,0.0,14.0,Needs Support,Student 1114,0.0
+1115,43.0,2.0,26.0,Needs Support,Student 1115,0.0
+1116,64.0,0.0,98.0,Average,Student 1116,0.0
+1117,100.0,0.0,17.0,Needs Support,Student 1117,0.0
+1118,71.0,3.0,91.0,Average,Student 1118,0.0
+1119,81.0,7.0,68.0,High,Student 1119,0.0
+1120,65.0,6.0,93.0,High,Student 1120,0.0
+1121,30.0,0.0,83.0,Average,Student 1121,0.0
+1122,35.0,0.0,33.0,Needs Support,Student 1122,0.0
+1123,49.0,3.0,83.0,Average,Student 1123,0.0
+1124,47.0,5.0,17.0,Needs Support,Student 1124,0.0
+1125,89.0,6.0,29.0,Average,Student 1125,0.0
+1126,89.0,7.0,21.0,Average,Student 1126,0.0
+1127,90.0,3.0,13.0,Needs Support,Student 1127,0.0
+1128,75.0,1.0,9.0,Needs Support,Student 1128,0.0
+1129,69.0,0.0,18.0,Needs Support,Student 1129,0.0
+1130,76.0,1.0,12.0,Needs Support,Student 1130,0.0
+1131,58.0,0.0,38.0,Needs Support,Student 1131,0.0
+1132,77.0,7.0,7.0,Needs Support,Student 1132,0.0
+1133,86.0,2.0,6.0,Needs Support,Student 1133,0.0
+1134,84.0,7.0,99.0,High,Student 1134,0.0
+1135,73.0,4.0,8.0,Needs Support,Student 1135,0.0
+1136,34.0,4.0,7.0,Needs Support,Student 1136,0.0
+1137,81.0,4.0,3.0,Needs Support,Student 1137,0.0
+1138,56.0,7.0,13.0,Needs Support,Student 1138,0.0
+1139,82.0,0.0,53.0,Average,Student 1139,0.0
+1140,68.0,0.0,83.0,Average,Student 1140,0.0
+1141,92.0,3.0,74.0,Average,Student 1141,0.0
+1142,54.0,3.0,58.0,Average,Student 1142,0.0
+1143,96.0,4.0,8.0,Needs Support,Student 1143,0.0
+1144,89.0,6.0,78.0,High,Student 1144,0.0
+1145,53.0,5.0,3.0,Needs Support,Student 1145,0.0
+1146,64.0,2.0,63.0,Average,Student 1146,0.0
+1147,67.0,2.0,41.0,Needs Support,Student 1147,0.0
+1148,84.0,6.0,89.0,High,Student 1148,0.0
+1149,78.0,1.0,31.0,Needs Support,Student 1149,0.0
+1150,90.0,4.0,64.0,Average,Student 1150,0.0
+1151,56.0,4.0,44.0,Needs Support,Student 1151,0.0
+1152,65.0,6.0,52.0,Average,Student 1152,0.0
+1153,60.0,6.0,94.0,High,Student 1153,0.0
+1154,94.0,4.0,71.0,Average,Student 1154,0.0
+1155,51.0,2.0,41.0,Needs Support,Student 1155,0.0
+1156,71.0,3.0,45.0,Average,Student 1156,0.0
+1157,38.0,3.0,71.0,Average,Student 1157,0.0
+1158,90.0,1.0,34.0,Needs Support,Student 1158,0.0
+1159,57.0,5.0,16.0,Needs Support,Student 1159,0.0
+1160,54.0,1.0,47.0,Needs Support,Student 1160,0.0
+1161,71.0,5.0,6.0,Needs Support,Student 1161,0.0
+1162,65.0,6.0,17.0,Needs Support,Student 1162,0.0
+1163,90.0,8.0,42.0,Average,Student 1163,0.0
+1164,67.0,1.0,80.0,Average,Student 1164,0.0
+1165,66.0,6.0,78.0,Average,Student 1165,0.0
+1166,37.0,0.0,26.0,Needs Support,Student 1166,0.0
+1167,31.0,3.0,42.0,Needs Support,Student 1167,0.0
+1168,58.0,1.0,15.0,Needs Support,Student 1168,0.0
+1169,100.0,1.0,76.0,Average,Student 1169,0.0
+1170,95.0,1.0,24.0,Needs Support,Student 1170,0.0
+1171,74.0,0.0,80.0,Average,Student 1171,0.0
+1172,74.0,7.0,85.0,High,Student 1172,0.0
+1173,57.0,0.0,69.0,Average,Student 1173,0.0
+1174,42.0,3.0,33.0,Needs Support,Student 1174,0.0
+1175,30.0,6.0,96.0,Average,Student 1175,0.0
+1176,54.0,8.0,69.0,Average,Student 1176,0.0
+1177,52.0,7.0,65.0,Average,Student 1177,0.0
+1178,43.0,1.0,86.0,Average,Student 1178,0.0
+1179,48.0,8.0,89.0,High,Student 1179,0.0
+1180,31.0,5.0,7.0,Needs Support,Student 1180,0.0
+1181,73.0,1.0,89.0,Average,Student 1181,0.0
+1182,95.0,4.0,77.0,High,Student 1182,0.0
+1183,79.0,8.0,20.0,Average,Student 1183,0.0
+1184,61.0,3.0,31.0,Needs Support,Student 1184,0.0
+1185,59.0,1.0,76.0,Average,Student 1185,0.0
+1186,51.0,7.0,21.0,Needs Support,Student 1186,0.0
+1187,40.0,8.0,45.0,Average,Student 1187,0.0
+1188,72.0,8.0,69.0,High,Student 1188,0.0
+1189,70.0,8.0,65.0,Average,Student 1189,0.0
+1190,30.0,7.0,91.0,Average,Student 1190,0.0
+1191,59.0,4.0,11.0,Needs Support,Student 1191,0.0
+1192,49.0,1.0,29.0,Needs Support,Student 1192,0.0
+1193,42.0,5.0,99.0,Average,Student 1193,0.0
+1194,79.0,1.0,57.0,Average,Student 1194,0.0
+1195,67.0,4.0,25.0,Needs Support,Student 1195,0.0
+1196,74.0,5.0,29.0,Needs Support,Student 1196,0.0
+1197,80.0,8.0,34.0,Average,Student 1197,0.0
+1198,99.0,2.0,55.0,Average,Student 1198,0.0
+1199,86.0,2.0,28.0,Needs Support,Student 1199,0.0
+1200,74.0,6.0,62.0,Average,Student 1200,0.0
+1201,80.0,2.0,60.0,,25,60.0
